@@ -1,6 +1,6 @@
 {
   "name": "geoffwilliams-facter_package_inventory",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "geoffwilliams",
   "summary": "custom fact that lists packages known to puppet",
   "license": "Apache-2.0",
@@ -9,6 +9,9 @@
   "issues_url": "https://github.com/GeoffWilliams/geoffwilliams-facter_package_inventory/issues",
   "dependencies": [
     {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "tags": [
+    "deprecated"
   ]
 }
 
